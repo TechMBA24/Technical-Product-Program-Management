@@ -1,2 +1,2 @@
-# Technical-Product-Program-Management
-Become Intelligent Technical Product and Program Manager with me
+# Product-Program-Management
+Become Intelligent Product and Program Manager with me
